@@ -14,5 +14,5 @@ export default class HolbertonClass {
 
   // Setters
 
- // Getters
+  // Getters
 }
