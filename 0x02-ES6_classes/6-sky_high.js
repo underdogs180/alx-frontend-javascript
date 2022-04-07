@@ -5,8 +5,8 @@ export default class SkyHighBuilding extends Building {
     // call constructor of super class (Building)
     super(sqft);
 
-   // Create objs
-   this._floors = floors;
+    // Create objs
+    this._floors = floors;
   }
 
   // Methods
